@@ -1,1 +1,1 @@
-FROM microsoft/dotnet:latest
+FROM ubuntu:latest
